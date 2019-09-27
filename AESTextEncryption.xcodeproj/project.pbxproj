@@ -296,10 +296,10 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1100;
-				ORGANIZATIONNAME = "Evgenii Neumerzhitckii";
+				ORGANIZATIONNAME = Secoep;
 				TargetAttributes = {
 					2B51DAB418288CAB008749DA = {
-						DevelopmentTeam = BS677JRE62;
+						DevelopmentTeam = 9CCH86NLF5;
 					};
 					2B7D27351841B1DF0031F1E7 = {
 						TestTargetID = 2B51DAB418288CAB008749DA;
@@ -538,10 +538,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 9CCH86NLF5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AESTextEncryption/AESTextEncryption-Prefix.pch";
 				INFOPLIST_FILE = "AESTextEncryption/AESTextEncryption-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.evgenii.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.secoep.AES-Crypto";
 				PRODUCT_NAME = "AES Crypto";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -555,10 +556,11 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 9CCH86NLF5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AESTextEncryption/AESTextEncryption-Prefix.pch";
 				INFOPLIST_FILE = "AESTextEncryption/AESTextEncryption-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.evgenii.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.secoep.AES-Crypto";
 				PRODUCT_NAME = "AES Crypto";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;

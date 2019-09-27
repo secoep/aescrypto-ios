@@ -51,7 +51,7 @@
   [self.textViewDelegate setTextPlaceholder: self.messageTextView];
 
   [self registerKeyboardNotifications];
-  [self.passwordTextField setValue: [TextViewDelegate placeholderColor] forKeyPath:@"_placeholderLabel.textColor"];
+  //[self.passwordTextField setValue: [TextViewDelegate placeholderColor] forKeyPath:@"_placeholderLabel.textColor"];
 
   [self showToolbar];
   [self setTitleImage];
